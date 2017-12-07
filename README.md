@@ -3,6 +3,7 @@ This is an experimental implementation of the wormhole attack on Linux. It targe
 
 Step-by.step documentation will be added soon. For now, an example scenario and supporting scripts are attached.
 
+Some code portions are based on the https://github.com/aircrack-ng/aircrack-ng project.
 
 Copyright: (C) 2012 Communication Networks Institute (CNI - Prof. Dr.-Ing. Christian Wietfeld) at Technische Universitaet Dortmund, Germany: http://www.kn.e-technik.tu-dortmund.de/.
 
